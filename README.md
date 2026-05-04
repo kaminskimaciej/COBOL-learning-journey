@@ -1,2 +1,13 @@
-# COBOL-learning-journey
-Exploring the world of enterprise computing: My personal roadmap and codebase for learning COBOL, from syntax basics to mainframe concepts.
+# COBOL Learning Journey
+
+Personal repository for tracking progress in COBOL programming.
+
+## 🛠 Tech Stack
+- **Compiler:** GnuCOBOL
+- **Editor:** VS Code
+
+## 🚀 Quick Start
+Compile and run:
+```bash
+cobc -x program.cbl
+./program
